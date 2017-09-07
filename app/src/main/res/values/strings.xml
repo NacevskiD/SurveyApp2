@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="question">Do you like the superbowl?</string>
+    <string name="yesButton">Yes</string>
+    <string name="noButton">No</string>
+    <string name="resetButton">Reset</string>
+    <string name="yesVotes">Yes votes: </string>
+    <string name="noVotes">No votes: </string>
+</resources>
